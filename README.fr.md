@@ -358,7 +358,7 @@ Lien cassé ? Nouvelle ressource à proposer ? Votre propre produit ? Soumettez 
 
 **Maintenu par [Idea Miner](https://idea-miner.com/en/)** 👷
 
-*Aider les indie hackers à trouver ce qui vaut la peine d'être construit, grâce à des données de demande payantes réelles.*
+*Aider les indie hackers à trouver ce qui vaut la peine d'être construit, grâce aux signaux de demande récurrents issus de résumés d'annonces publiques de missions freelance traités dans le respect des règles.*
 
 [🌐 Site](https://idea-miner.com/en/)
 

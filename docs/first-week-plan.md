@@ -5,7 +5,7 @@
 
 ## Day 1：找方向
 
-**目标：** 选出 3 个你有兴趣且有真实付费需求的方向。
+**目标：** 选出 3 个你有兴趣且有真实需求信号的方向。
 
 - [ ] 打开 [Idea Miner](https://idea-miner.com/en/) 查看本月热门需求榜单
 - [ ] 按技术栈筛选（React/Python/Flutter/AI/LLM 等），找到你能做的

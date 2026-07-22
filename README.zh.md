@@ -348,7 +348,7 @@
 ## 🎯 从这里开始：独立开发第一周行动计划
 
 ```
-Day 1：打开 Idea Miner，浏览本月付费需求排行榜，选 3 个方向
+Day 1：打开 Idea Miner，浏览本月需求排行榜，选 3 个方向
 Day 2：在 Upwork/Freelancer 搜索这些关键词，读 20 个真实任务描述
 Day 3：用 The Mom Test 方法访谈 5 个目标用户
 Day 4：从上面的列表选一个 Starter Kit，开始搭 MVP
@@ -379,7 +379,7 @@ Day 7：上线 Landing Page 收集邮箱（产品不需要做完）
 
 **由 [Idea Miner](https://idea-miner.com/en/) 维护** 👷
 
-*用真实付费需求数据，帮独立开发者找到值得做的产品。*
+*通过经合规处理的公开外包项目摘要中反复出现的需求信号，帮独立开发者找到值得做的产品。*
 
 [🌐 网站](https://idea-miner.com/en/)
 

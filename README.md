@@ -349,7 +349,7 @@ Coverage and available filters change as reports are published. See the live sit
 ## 🎯 Start Here: Your First Week as an Indie Hacker
 
 ```
-Day 1: Open Idea Miner, browse this month's paid demand rankings, pick 3 directions
+Day 1: Open Idea Miner, browse this month's demand rankings, pick 3 directions
 Day 2: Search those keywords on Upwork/Freelancer, read 20 real task descriptions
 Day 3: Use The Mom Test to interview 5 target users
 Day 4: Pick a starter kit from the list above, start building your MVP
@@ -380,7 +380,7 @@ Found a broken link? Have a new resource to suggest? Want to add your own produc
 
 **Maintained by [Idea Miner](https://idea-miner.com/en/)** 👷
 
-*Helping indie hackers find what's worth building, using real paid demand data.*
+*Helping indie hackers find what's worth building, using recurring demand signals from compliance-screened summaries of public freelance project listings.*
 
 [🌐 Website](https://idea-miner.com/en/)
 

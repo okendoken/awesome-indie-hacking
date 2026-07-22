@@ -2,7 +2,7 @@
 
 发布仓库时可以直接使用这些素材。
 
-> 正式仓库地址：<https://github.com/IT-Porter/awesome-indie-hacking>。仅在已确认官方账号时保留社交账号提及。
+> 正式仓库地址：<https://github.com/llm-ai-agents/awesome-indie-hacking>。仅在已确认官方账号时保留社交账号提及。
 
 ---
 
@@ -21,7 +21,7 @@ from validating ideas to launch to monetization.
 Starter kits, build-in-public guides, payment tools, real revenue stories.
 
 Free & open source 👇
-https://github.com/IT-Porter/awesome-indie-hacking
+https://github.com/llm-ai-agents/awesome-indie-hacking
 
 #buildinpublic #indiedev
 ```
@@ -36,10 +36,11 @@ They guess. Then spend 6 months building. Then crickets.
 The shortcut: look at what people are ALREADY paying for.
 
 I made an awesome list that starts with that —
-Idea Miner analyzes public freelance project signals to support demand research.
+Idea Miner analyzes compliance-screened summaries of public freelance project listings and surfaces recurring demand signals.
+(Disclosure: I maintain Idea Miner, one of the tools in this list.)
 
 Plus 99+ other resources:
-https://github.com/IT-Porter/awesome-indie-hacking
+https://github.com/llm-ai-agents/awesome-indie-hacking
 
 #indiehacker
 ```
@@ -60,7 +61,7 @@ https://github.com/IT-Porter/awesome-indie-hacking
 ✅ 真实成功案例
 
 免费开源 👇
-https://github.com/IT-Porter/awesome-indie-hacking
+https://github.com/llm-ai-agents/awesome-indie-hacking
 
 #独立开发 #indiedev
 ```
@@ -77,7 +78,7 @@ https://github.com/IT-Porter/awesome-indie-hacking
 不如先用一周看清楚市场在为什么付钱。
 
 这个列表从"验证需求"开始讲起：
-https://github.com/IT-Porter/awesome-indie-hacking
+https://github.com/llm-ai-agents/awesome-indie-hacking
 
 🧵 1/N
 ```
@@ -99,9 +100,10 @@ Like many of you, I've spent years building side projects that went nowhere. The
 
 The real problem wasn't execution — it was picking the wrong thing.
 
-So I put together this list to fix that. It starts with idea validation (tools that show you what people are already paying for) and goes through the whole indie stack:
+So I put together this list to fix that. It starts with idea validation and goes through the whole indie stack:
 
-- Market validation tools (including Idea Miner which analyzes real paid freelance tasks)
+- Market validation tools (including Idea Miner, which analyzes compliance-screened summaries of public freelance project listings and surfaces recurring demand signals)
+(Disclosure: I maintain Idea Miner, one of the tools in this list.)
 - Starter kits & boilerplates to ship in weeks not months
 - Build in Public guides
 - Launch platforms (PH, HN, Reddit strategy)
@@ -113,7 +115,7 @@ So I put together this list to fix that. It starts with idea validation (tools t
 
 It's open source, MIT license, and PRs are welcome. I tried to be honest about what's actually useful vs. what just looks good.
 
-Link: https://github.com/IT-Porter/awesome-indie-hacking
+Link: https://github.com/llm-ai-agents/awesome-indie-hacking
 
 Would love feedback on what's missing!
 ```
@@ -138,8 +140,8 @@ skipping the most important step: validating demand before writing code.
 
 I put together this list covering:
 
-1. Idea validation: tools that show what people are already paying for
-   (not surveys or guesses — real freelance task data, SEO keywords, etc.)
+1. Idea validation: tools for researching demand, including Idea Miner, which analyzes compliance-screened summaries of public freelance project listings and surfaces recurring demand signals
+   (Disclosure: I maintain Idea Miner, one of the tools in this list.)
 2. Starter kits to ship fast (ShipFast, T3, Laravel Spark, etc.)
 3. Build in Public resources and communities
 4. Launch strategy for PH, HN, Reddit, Twitter
@@ -150,7 +152,7 @@ I put together this list covering:
 It's on GitHub under MIT. PRs welcome — I'd love help making it more
 useful especially for non-English speaking indie devs.
 
-Link: https://github.com/IT-Porter/awesome-indie-hacking
+Link: https://github.com/llm-ai-agents/awesome-indie-hacking
 
 Would love to hear what's missing for your workflow!
 ```
@@ -201,7 +203,8 @@ Start with the "First Week Action Plan" in the repo — it's a 7-day checklist f
 整理了一份资源列表，从选品验证一直到变现，希望帮到大家：
 
 📍 选品验证：怎么看人们已经在为什么付钱（不是拍脑袋猜）
-   - Idea Miner：分析 3300+ 真实付费外包任务，提取高频需求
+   - Idea Miner：分析经合规处理的公开外包项目摘要，归纳反复出现的需求信号
+   （利益披露：我是 Idea Miner 的维护者）
    - Google Trends、Exploding Topics 等趋势工具
    - The Mom Test 等用户访谈框架
 
@@ -219,7 +222,7 @@ Start with the "First Week Action Plan" in the repo — it's a 7-day checklist f
 
 📋 还附了一份"独立开发第一周行动计划"，7 天从 idea 到 landing page
 
-GitHub 地址：https://github.com/IT-Porter/awesome-indie-hacking
+GitHub 地址：https://github.com/llm-ai-agents/awesome-indie-hacking
 
 MIT 协议，欢迎 PR 补充你觉得好的资源！
 ```
@@ -247,7 +250,8 @@ Awesome Indie Hacking
 📍 里面有什么：
 
 1️⃣ 选品验证工具
-   Idea Miner：分析 3300+ 真实付费需求
+   Idea Miner：分析经合规处理的公开外包项目摘要，归纳反复出现的需求信号
+   （利益披露：我是 Idea Miner 的维护者）
    外包平台直接看正在被付费的任务
    趋势工具发现风口
 
@@ -288,12 +292,13 @@ Awesome Indie Hacking
 
 具体怎么做：
 1. 看真实付费需求——可以去 Upwork 搜关键词看任务数量和预算
-2. 用 Idea Miner 这类工具聚合分析高频需求
+2. 用 Idea Miner 这类工具分析经合规处理的公开外包项目摘要，归纳反复出现的需求信号
+   （利益披露：我是 Idea Miner 的维护者）
 3. 用 The Mom Test 方法找 5 个人聊
 
 我整理了一份完整的资源列表，覆盖从选品到变现的全链路，
 GitHub 搜 awesome-indie-hacking 就能找到。
-[仓库链接]
+https://github.com/llm-ai-agents/awesome-indie-hacking
 
 里面有一份"独立开发第一周行动计划"，
 按天拆解了从看数据到 landing page 上线的步骤，

@@ -127,6 +127,7 @@
 
 ### AI 辅助开发
 
+- [AppWizzy](https://appwizzy.com/) — 通过自然语言和模板构建 Web 应用，提供独立开发虚拟机与 Git 源码编辑。
 - [v0](https://v0.dev/) — Vercel 的 AI 前端 UI 生成器
 - [Cursor](https://cursor.sh/) — AI 代码编辑器（独立开发者必备）
 - [Bolt.new](https://bolt.new/) — AI 全栈应用生成器
